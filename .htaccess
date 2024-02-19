@@ -1,0 +1,3 @@
+Options All
+RewriteEngine On
+RewriteRule ^$ /Index.php [L]
